@@ -6,11 +6,7 @@ Built as a mid-semester project for CIT308 (Data Visualization). The dataset was
 
 ## Screenshot
 
-Add a screenshot of the dashboard here:
-
-```
-![Dashboard](dashboard.png)
-```
+   ![LankaMart Dashboard](dashboard.png)
 
 ## Features
 
